@@ -1,4 +1,4 @@
-# Readme file for Amazing Numbers
+# Amazing Numbers
 
 ## Introduction
 Amazing Numbers is a program that can provide you with various properties of numbers. You can input a single number, a range of consecutive numbers, or a list of properties to search for. The program will then output the requested properties of the given numbers.
