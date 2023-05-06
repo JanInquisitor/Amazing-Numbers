@@ -1,4 +1,4 @@
-package numbers;
+package src.numbers;
 
 import java.text.DecimalFormat;
 import java.util.*;

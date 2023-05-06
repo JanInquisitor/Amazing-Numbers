@@ -1,4 +1,4 @@
-package numbers;
+package src.numbers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -146,7 +146,7 @@ public class Main {
                         (prop1.equals("spy") && prop2.equals("duck")) || (prop1.equals("duck") && prop2.equals("spy")) ||
                         (prop1.equals("duck") && prop2.equals("-duck")) || (prop1.equals("-duck") && prop2.equals("duck")) ||
                         (prop1.equals("-spy") && prop2.equals("-duck")) || (prop1.equals("-duck") && prop2.equals("-spy"))) {
-                    System.out.println("The request contains mutually exclusive properties: [" + properties[i].toUpperCase() + ", " + properties[j].toUpperCase() + "]\nThere are no numbers with these properties.");
+                    System.out.println("The request contains mutually exclusive properties: [" + properties[i].toUpperCase() + ", " + properties[j].toUpperCase() + "]\nThere are no src.numbers with these properties.");
                     hasMutuallyExclusiveProperties = true;
                 }
             }
