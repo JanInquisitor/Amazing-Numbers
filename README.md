@@ -1,7 +1,7 @@
 # Amazing Numbers
 
 ## Introduction
-Amazing Numbers is a program that can provide you with various properties of numbers. You can input a single number, a range of consecutive numbers, or a list of properties to search for. The program will then output the requested properties of the given numbers.
+Amazing Numbers is a console-based program that provides information about different properties of numbers. The program can process requests for a single number, a list of consecutive numbers, or a list of numbers with specific properties.
 
 ## How to use
 To use the program, simply run it from the command line or terminal. You will be prompted to enter a request. You can enter any of the following requests:
